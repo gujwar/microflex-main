@@ -7327,6 +7327,8 @@ li.nav-item > a {
       .blog_area_4 .single_blog_item_3 .blog_info:hover h2 {
         color: #fff; }
 
+
+
 @media only screen and (min-width: 768px) and (max-width: 991px) {
   .blog_area_4 .single_blog_item_3 .blog_info {
     padding: 15px 10px; }
@@ -8494,6 +8496,36 @@ li.nav-item > a {
       background: #191b41; }
       .call_to_action_area_6 .boxed_btn.boxed_btn.alt:hover {
         background: #3a2085; }
+
+        .call_to_action_area_x {
+          color: #fff;
+          position: relative;
+          z-index: 1; }
+          
+          
+          .call_to_action_area_x .boxed_btn {
+            background: #5a3aeb;
+            padding: 15px 30px;
+            font-size: 16px;
+            text-transform: uppercase;
+            color: #fff;
+            border-radius: 5px;
+            display: inline-block;
+            font-weight: 500;
+            font-family: 'Fira Sans', sans-serif;
+            -webkit-transition: all 0.5s ease-in-out;
+            -moz-transition: all 0.5s ease-in-out;
+            -ms-transition: all 0.5s ease-in-out;
+            -o-transition: all 0.5s ease-in-out;
+            transition: all 0.5s ease-in-out; }
+            .call_to_action_area_x .boxed_btn:hover {
+              background: #c4caff;
+              color:#000
+               }
+            .call_to_action_area_x .boxed_btn.boxed_btn.alt {
+              background: #191b41; }
+              .call_to_action_area_x .boxed_btn.boxed_btn.alt:hover {
+                background: #3a2085; }
 
 .call_to_action_area_7 {
   color: #fff;
